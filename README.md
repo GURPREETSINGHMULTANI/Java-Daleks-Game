@@ -6,11 +6,14 @@ Built using Java and applied object-oriented programming principles to handle ga
 
 ## Illustrations
 
-![Application Preview](https://github.com/GURPREETSINGHMULTANI/Dad-Jokes-React-App/blob/master/Images/gurpreetsinghmultani.github.io_Dad-Jokes-React-App_.png?raw=true)
+![Game Image](https://github.com/GURPREETSINGHMULTANI/Java-Daleks-Game/blob/master/Daleks%20Game%20Images/1.png?raw=true)
 
-## Link To Website
+![Game Image](https://github.com/GURPREETSINGHMULTANI/Java-Daleks-Game/blob/master/Daleks%20Game%20Images/2.png?raw=true)
 
-#### Link To Website On Github Pages
+![Game Image](https://github.com/GURPREETSINGHMULTANI/Java-Daleks-Game/blob/master/Daleks%20Game%20Images/3.png?raw=true)
 
-`https://gurpreetsinghmultani.github.io/Dad-Jokes-React-App/`
+![Game Image](https://github.com/GURPREETSINGHMULTANI/Java-Daleks-Game/blob/master/Daleks%20Game%20Images/4.png?raw=true)
+
+
+
 
